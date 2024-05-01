@@ -1,2 +1,2 @@
 # Lab 5 - Starter
-Philip and Christopher
+Philip Chi and Christopher Schrader
